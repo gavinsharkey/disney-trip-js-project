@@ -1,24 +1,39 @@
-# README
+# Disney Trip Planner - JS Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+## Usage
 
-* System dependencies
 
-* Configuration
 
-* Database creation
+## Installation
 
-* Database initialization
+After you fork this repo, cd into `/disney_trip_api` and run
 
-* How to run the test suite
+```bundle```
 
-* Services (job queues, cache servers, search engines, etc.)
+to load the dependencies. Then run
 
-* Deployment instructions
+```rails db:migrate```
 
-* ...
+and
+
+```rails db:seed```
+
+to initialize the database and add some dummy data. You'll also probably need to run
+
+```yarn install```
+
+to create the yarn.lock file.  
+
+To start the app, open `index.html` and enjoy!  
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/gavinsharkey/workouts_app_rails_project.
+
+
+## License
+
+This app is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
