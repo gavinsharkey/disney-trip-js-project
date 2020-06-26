@@ -30,7 +30,7 @@ To start the app, open `index.html` and enjoy!
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/gavinsharkey/workouts_app_rails_project.
+Bug reports and pull requests are welcome on GitHub at https://github.com/gavinsharkey/disney-trip-js-project
 
 
 ## License
